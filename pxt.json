@@ -1,0 +1,23 @@
+{
+    "name": "Globe_AJK2020",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-bluefruit": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.13.54",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
